@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MockitoMockMethodExample" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-27T18:57:57" hostname="UK-GWYBCK3" time="0.862">
+  <properties/>
+  <testcase name="test()" classname="MockitoMockMethodExample" time="0.862"/>
+  <system-out><![CDATA[null
+null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
